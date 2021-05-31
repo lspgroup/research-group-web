@@ -1,5 +1,12 @@
+LSP Research Group Webpage
+==========================
+
+This is the webpage repository of the LSP research group at National University of Singapore.
+
+Below are thee details pertaining to the template of the webpage.
+
 Research Group Web Site Template
-================================
+--------------------------------
 
 This is a [Jekyll][]-based Web site intended for research groups. Your group should be able to get up and running with minimal fuss.
 
